@@ -14,7 +14,8 @@ export default defineConfig({
         style: "style.html",
         score: "score.html",
         todoList: "todoList.html",
-        say_hello2: "say-hello2.html"
+        say_hello2: "say-hello2.html",
+        contact: "contact.html"
       }
     }
   }
