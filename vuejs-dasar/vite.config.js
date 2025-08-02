@@ -17,6 +17,7 @@ export default defineConfig({
         say_hello2: "say-hello2.html",
         contact: "contact.html",
         product: "product.html",
+        note: "note.html",
       }
     }
   }
