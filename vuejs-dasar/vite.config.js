@@ -20,6 +20,7 @@ export default defineConfig({
         note: "note.html",
         product_detail: "product-detail.html",
         counter_stateless: "counter-stateless.html",
+        contact_form: "contact-form.html",
       }
     }
   }
