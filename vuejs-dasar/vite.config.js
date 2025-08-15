@@ -19,6 +19,7 @@ export default defineConfig({
         product: "product.html",
         note: "note.html",
         product_detail: "product-detail.html",
+        counter_stateless: "counter-stateless.html",
       }
     }
   }
