@@ -21,6 +21,7 @@ export default defineConfig({
         product_detail: "product-detail.html",
         counter_stateless: "counter-stateless.html",
         contact_form: "contact-form.html",
+        button: "button.html",
       }
     }
   }
