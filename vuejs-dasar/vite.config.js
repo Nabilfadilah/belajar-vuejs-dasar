@@ -22,6 +22,7 @@ export default defineConfig({
         counter_stateless: "counter-stateless.html",
         contact_form: "contact-form.html",
         button: "button.html",
+        button2: "button2.html",
       }
     }
   }
